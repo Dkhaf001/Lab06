@@ -1,4 +1,4 @@
-# hostinfo
+# hostinfo test change
 
 Simple Go microservice which returns a host info string (name and IP of the host). Accessible via curl, wget, etc. 
 Listens on port 9898 by default, if an `int` is passed on the command line, that port is used instead. Particularly 
